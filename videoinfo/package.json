@@ -8,5 +8,8 @@
   "private": true,
   "dependencies": {
     "electron": "^9.1.2"
+  },
+  "scripts": {
+    "electron": "electron ."
   }
 }
