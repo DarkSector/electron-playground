@@ -1,0 +1,12 @@
+{
+  "name": "videoinfo",
+  "version": "1.0.0",
+  "description": "A simple electron app for practice",
+  "main": "index.js",
+  "author": "Pronoy Chopra",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "electron": "^9.1.2"
+  }
+}
